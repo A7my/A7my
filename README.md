@@ -1,6 +1,5 @@
-                                                                    # Hi , I'am Mohamed Azmy!
-
-                                                                    - Junior Laravel back-End Develper.
+# Hi , I'am Mohamed Azmy!
+- Junior Laravel back-End Develper.
 
 # Languages
 
